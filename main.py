@@ -1,3 +1,15 @@
+"""
+Lenguajes y Autómatas II 
+"Generador de código intermedio" 
+Becerra Barceló José Raúl. 
+Diaz Sanches Edwin Ulises. 
+Ferrer Chacón Diego Felipe. 
+7SA 
+E21080774 
+E21081367 
+E21080738
+"""
+
 from symbol_table import SymbolTable
 from evaluator import evaluate_expression
 from assignment import assign_variable
